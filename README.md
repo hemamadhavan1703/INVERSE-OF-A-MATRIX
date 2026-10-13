@@ -27,7 +27,8 @@ import numpy as np
 a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 ###
 b=np.linalg.inv(a)
-###print(b)
+###
+print(b)
 ## Output:<img width="1263" height="842" alt="image" src="https://github.com/user-attachments/assets/2351b142-3e7d-4195-abaa-6cad2015315f" />
 
 ## Result:
